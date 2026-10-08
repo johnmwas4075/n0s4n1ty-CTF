@@ -19,7 +19,9 @@ The application appeared to be designed for uploading image files. After uploadi
 /uploads
 ```
 The `/uploads` page displayed the location of the uploaded file.
+
 <img width="692" height="65" alt="image" src="https://github.com/user-attachments/assets/6e85603b-3719-478a-b7e3-f0a72f34a1fd" />
+
 I investigated whether the application properly validated the type of file being uploaded.
 
 ---
